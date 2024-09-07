@@ -1,9 +1,67 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": [
+    {
+      "id": "9900",
+      "title": "לשחק טניס",
+      "stage": "completed",
+      "created_at": "9/4/2024",
+      "date": "2024-10-15",
+      "priority": "low",
+      "body": "ddd,h"
+    },
+    {
+      "id": "ad77",
+      "title": "dont sleep ",
+      "stage": "in-progress",
+      "created_at": "9/4/2024",
+      "date": "2024-09-24",
+      "priority": "high",
+      "body": "broklyn"
+    },
+    {
+      "id": "a89e",
+      "title": "spring boot video noder neder",
+      "stage": "todo",
+      "created_at": "8/3/2024",
+      "date": "2024-09-25",
+      "priority": "normal",
+      "body": "a"
+    },
+    {
+      "id": "541f",
+      "title": "jhonny jhonny",
+      "stage": "in-progress",
+      "created_at": "9/4/2024",
+      "date": "2024-09-07",
+      "priority": "high",
+      "body": "yes papa?"
+    },
+    {
+      "id": "df10",
+      "title": "נו מה?",
+      "stage": "completed",
+      "created_at": "9/4/2024",
+      "date": "2024-09-18",
+      "priority": "high",
+      "body": ""
+    },
+    {
+      "id": "1fab",
+      "title": "yo whats up??",
+      "stage": "completed",
+      "created_at": "9/4/2024",
+      "date": "2024-09-04",
+      "priority": "high",
+      "body": "s"
+    },
+    {
+      "id": "61aa",
+      "title": "Give Shiri Attention",
+      "stage": "todo",
+      "created_at": "9/4/2024",
+      "date": "2024-09-04",
+      "priority": "high",
+      "body": "veryyyyyyyyyyy importenttttttttt sir geva"
+    }
+  ]
 }
